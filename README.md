@@ -10,7 +10,7 @@ The analysis has been updated to not include the misreported test scores.
 
 ## Summary
 
-- Thomas High School is a charter school. If affected the overall passing percentages negatively. The overall passing percentage went from 95% to 92%.
+- Thomas High School is a charter school. If affected the overall passing percentages negatively. The overall passing percentage scores for all charter schools combined went from 95% to 92%.
 
 - Thomas High school saw a significant change in the overall school summary totals as shown in the provided chart below:
 
